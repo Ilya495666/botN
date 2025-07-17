@@ -1,0 +1,11 @@
+/src
+  /main
+    /java
+      /yourpackage
+        MainBotClass.java
+    /resources
+      config.properties 
+pom.xml (для Maven) или build.gradle (для Gradle)
+.gitignore
+Procfile 
+system.properties 
